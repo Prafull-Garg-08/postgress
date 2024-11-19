@@ -1,0 +1,16 @@
+{
+  "name": "new-auth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "connect.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/identity": "^4.5.0",
+    "dotenv": "^16.4.5",
+    "pg": "^8.13.1"
+  }
+}
